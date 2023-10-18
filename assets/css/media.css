@@ -1,0 +1,34 @@
+/* Break Points  */
+@media screen and (min-width: 1400px) {
+}
+@media screen and (max-width: 1400px) {
+}
+@media screen and (max-width: 1200px) {
+}
+@media screen and (max-width: 992px) {
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 576px) {
+}
+
+/*///////////////
+//========>Nav Bar
+//////////////*/
+
+@media screen and (max-width: 992px) {
+  .navbar-nav .nav-link.active {
+    color: #000;
+  }
+
+  .navbar-nav {
+    background-color: #fff;
+  }
+  .navbar-toggler {
+    outline: none;
+    color: black !important;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+}
